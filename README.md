@@ -1,6 +1,6 @@
 ![Main Logo](./logo.png)
 
-passGen (Beta 0.1) is a simple password generator using Python and Tkinter, that will create, delete and save your passwords in a simple txt file.
+PASSgen (Beta 0.1) is a simple password generator using Python and Tkinter, that will create, delete and save your passwords in a simple txt file.
 
 ---
 
