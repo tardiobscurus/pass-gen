@@ -26,4 +26,6 @@ This is will send you to a simple UI, asking you the name, length, adding extra 
 
 **Future Changes**
 
+Delete selected checkbox when you are done with creating the amount of passwords. Got the main display, but haven't done the deleting part.
+
 Better encryption method to better protect your passwords if you want this to be the go to password manager.
